@@ -1,5 +1,7 @@
 # Spring Boot Todo App
 
+![screenshot.png](screenshot.png)
+
 ## Overview
 This project is a simple Todo application built with **Spring Boot**, allowing users to manage their tasks effectively through a web interface. The application includes features for adding, updating, deleting, and viewing tasks. It integrates with a **MySQL database** for data persistence and uses **Thymeleaf** for server-side rendering.
 
